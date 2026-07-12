@@ -1,7 +1,7 @@
 <img align="left" width="460" height="435" alt="image" src="https://github.com/user-attachments/assets/5291e6ca-fb31-410f-a571-9ae6d5852bca"/>
-Jun Hoe
+Jun Hoe@junhoe0
 
-<text>------------------</text>  
+<text>- - - - - - - - - - - - - - -</text>  
 OS: Github Profile v1.0  
 Kernel: Markdown-Renderer-2026  
 Uptime: 2 years  
