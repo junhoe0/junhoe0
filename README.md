@@ -13,7 +13,7 @@ Passionate about building tailored software solutions, gameplay systems, and emb
 **Languages:**  
 🐍 Python &nbsp;|&nbsp; 🎮 C#
 
-**Systems and Infrastructure**  
+**Systems and Infrastructure:**  
 * 🐧 Custom Linux Builds (Linux From Scratch)
 * ⚙️ Systemd
 * 🖥️ Ubuntu Server
